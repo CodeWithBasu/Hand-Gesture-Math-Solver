@@ -51,7 +51,7 @@ An innovative **AI-powered math-solving tool** that lets you *draw equations in 
 ## 🧑‍💻 Installation
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-math-solver.git
+git clone https://github.com/CodeWithBasu/Hand-Gesture-Math-Solver.git
 cd hand-gesture-math-solver
 pip install -r requirements.txt
 ```
